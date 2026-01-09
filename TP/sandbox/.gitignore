@@ -1,0 +1,3 @@
+# Ignorer tout le contenu du sandbox
+*
+!.gitignore
